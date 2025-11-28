@@ -31,9 +31,9 @@ The course aims at teaching the relevant skills for students to develop their ow
 It consists of a weekly lecture and accompanying labs.
 It is roughly split into the following blocks:
 
-1. Digital Design & FPGAs: Recaps Digital Design Basics and introduces building blocks of FPGAs. Students use SystemVerilog and Vivado to synthesize simple designs
-2. High-Level Synthesis: Main part of the course covers writing HLS code, simulation, implementation as well as integration on a Zynq board using XRT. 
-3. Project Accelerating CNNs: Students accelerate a simple CNN starting from a provided C++ implementation. We use the PYNQZ2 board to implement the design
+- Digital Design & FPGAs: Recaps Digital Design Basics and introduces building blocks of FPGAs. Students use SystemVerilog and Vivado to synthesize simple designs
+- High-Level Synthesis: Main part of the course covers writing HLS code, simulation, implementation as well as integration on a Zynq board using XRT. 
+- Project Accelerating CNNs: Students accelerate a simple CNN starting from a provided C++ implementation. We use the PYNQZ2 board to implement the design
 
 #### Seminar on Integration and Development of Hardware Accelerators (WS)
 In the seminar students can pick between different topics, or suggest their own topics to the area. Students prepare a literature survey or replicate parts of existing research and present their results in form of a report and a presentation.
