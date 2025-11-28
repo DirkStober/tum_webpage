@@ -12,9 +12,12 @@ Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
 
 <hr class="ce-div">
 
+## Research Interest
+
 ## Student Thesis (GR/BA/MA)
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
 Most of the topics require **previous experience** in FPGA development.
+In addition, I will also supervise external theses if the topic is related to FPGAs, EDA or embedded systems.
 
 
 #### Open-Source FPGA/EDA tools
