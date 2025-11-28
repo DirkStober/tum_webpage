@@ -1,4 +1,5 @@
-# M.Sc. Dirk Stober (PhD Student)
+# M.Sc. Dirk Stober 
+## (PhD Student)
 
 <hr class="ce-div">
 
