@@ -1,8 +1,9 @@
 # M.Sc. Dirk Stober (PhD Student)
 
+<hr>
 
 ## Contact:
-**E-mail**: dirk.stober(at)tum.de
+**E-mail:** dirk.stober(at)tum.de
 
 Boltzmannstr. 3  
 85748 Garching b. München  
@@ -11,6 +12,17 @@ Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
 <div id="c47581" class="frame frame-type-div frame-layout-0"><hr class="ce-div"></div>
 
 ## Research Interest
+- Memory Accesses on FPGAs
+	* Benchmarking different Access Patterns and FPGA devices
+	* Optimizing memory accesses for higher throughput
+	* Configuring the memory system of FPGAs to match the used bitstream
+- High-Level Synthesis 
+	* Developing Accelerators using HLS
+	* Extracting memory access graph from HLS
+- Integration of FPGAs
+	* Simplifying communication between host and FPGA for both SoC and Datacenter devices
+- Open-Source EDA tools
+
 
 ## Student Thesis (GR/BA/MA)
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
@@ -28,3 +40,5 @@ You would use existing designs or implement simple example designs to evaluate a
 
 or evaluate a complete pass from either C++ or Verilog to a post P&R representation that can be converted to a bitstream.
 **You should be interested in understanding EDA tools and experience in developing for FPGAs, as extensive manual configuration of the toolchains will be required due to the incomplete nature of these projects.**
+
+####
