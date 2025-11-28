@@ -1,9 +1,20 @@
+# M.Sc. Dirk Stober (PhD Student)
+
+---------------
+
+## Contact:
+**E-mail**: dirk.stober(at)tum.de
+
+Boltzmannstr. 3  
+85748 Garching b. München  
+Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
+
+---------------
 
 ## Student Thesis (GR/BA/MA)
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
 Most of the topics require **previous experience** in FPGA development.
 
----------------
 
 ### Open-Source FPGA/EDA tools
 I want to explore the usability, availability and performance of open source tools, as an alternative to the commonly used proprietary toolchains (Vivado,Vitis HLS etc.).
