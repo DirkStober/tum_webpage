@@ -30,6 +30,7 @@ I give a practical course, that I have designed as part of the BB-KI project dur
 The course aims at teaching the relevant skills for students to develop their own FPGA designs using HLS.
 It consists of a weekly lecture and accompanying labs.
 It is roughly split into the following blocks:
+
 1. Digital Design & FPGAs: Recaps Digital Design Basics and introduces building blocks of FPGAs. Students use SystemVerilog and Vivado to synthesize simple designs
 2. High-Level Synthesis: Main part of the course covers writing HLS code, simulation, implementation as well as integration on a Zynq board using XRT. 
 3. Project Accelerating CNNs: Students accelerate a simple CNN starting from a provided C++ implementation. We use the PYNQZ2 board to implement the design
