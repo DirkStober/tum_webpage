@@ -2,4 +2,14 @@
 ## Student Thesis
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity (GR/BA/MA):
 
-- **Open-Source FPGA tools"
+
+### Open-Source FPGA/EDA tools
+I want to explore the usability, availability and performance of open source tools, as an alternative to the commonly used proprietary toolchains (Vivado,Vitis HLS etc.).
+You would use existing designs or implement simple example designs to evaluate a single open-source tool, for example:
+
+- HLS: [Panda Bambu](https://github.com/ferrandi/PandA-bambu)
+- Synthesis: [Yosys] (https://github.com/YosysHQ/yosys)
+- Place+Route: [VTR] (https://verilogtorouting.org/), [nextpnr] (https://github.com/YosysHQ/nextpnr)
+
+or evaluate a complete pass from either C++ or Verilog to a post P&R representation that can be converted to a bitstream.
+**You should be interested in understanding EDA tools and experience in developing for FPGAs, as extensive manual configuration of the toolchains will be required due to the incomplete nature of these projects.**
