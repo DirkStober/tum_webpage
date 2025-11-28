@@ -3,7 +3,7 @@
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
 Most of the topics require **previous experience** in FPGA development.
 
----
+---------------
 
 ### Open-Source FPGA/EDA tools
 I want to explore the usability, availability and performance of open source tools, as an alternative to the commonly used proprietary toolchains (Vivado,Vitis HLS etc.).
