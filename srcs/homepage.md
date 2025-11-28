@@ -23,6 +23,21 @@ Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
 	* Simplifying communication between host and FPGA for both SoC and Datacenter devices
 - Open-Source EDA tools
 
+##	Teaching
+I give a practical course, that I have designed as part of the BB-KI project during the Summer Semester, and a Seminar during the Winter Semester. You can find more information about the courses on the Chair's website or by sending me an email.
+
+#### Practical Accelerating CNNs using PL (SS)
+The course aims at teaching the relevant skills for students to develop their own FPGA designs using HLS.
+It consists of a weekly lecture and accompanying labs.
+It is roughly split into the following blocks:
+1. Digital Design & FPGAs: Recaps Digital Design Basics and introduces building blocks of FPGAs. Students use SystemVerilog and Vivado to synthesize simple designs
+2. High-Level Synthesis: Main part of the course covers writing HLS code, simulation, implementation as well as integration on a Zynq board using XRT. 
+3. Project Accelerating CNNs: Students accelerate a simple CNN starting from a provided C++ implementation. We use the PYNQZ2 board to implement the design
+
+#### Seminar on Integration and Development of Hardware Accelerators (WS)
+In the seminar students can pick between different topics, or suggest their own topics to the area. Students prepare a literature survey or replicate parts of existing research and present their results in form of a report and a presentation.
+
+
 
 ## Student Thesis (GR/BA/MA)
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
