@@ -1,6 +1,6 @@
 # M.Sc. Dirk Stober (PhD Student)
 
----------------
+<hr class="ce-div">
 
 ## Contact:
 **E-mail**: dirk.stober(at)tum.de
@@ -9,7 +9,7 @@ Boltzmannstr. 3
 85748 Garching b. München  
 Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
 
----------------
+<hr class="ce-div">
 
 ## Student Thesis (GR/BA/MA)
 If you are interested in one of the following topics, feel free to contact me about a thesis opportunity. 
