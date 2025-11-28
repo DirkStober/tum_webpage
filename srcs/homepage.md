@@ -1,7 +1,5 @@
-# M.Sc. Dirk Stober 
-## (PhD Student)
+# M.Sc. Dirk Stober (PhD Student)
 
-<hr class="ce-div">
 
 ## Contact:
 **E-mail**: dirk.stober(at)tum.de
@@ -10,7 +8,7 @@ Boltzmannstr. 3
 85748 Garching b. München  
 Room: [5606.01.033](https://nav.tum.de/room/5606.01.033)
 
-<hr class="ce-div">
+<div id="c47581" class="frame frame-type-div frame-layout-0"><hr class="ce-div"></div>
 
 ## Research Interest
 
